@@ -47,7 +47,8 @@ We were find able to find a few things /phenomena with the datasets we chose. We
 * The most popular start to stop location for 2020 that had a sum of trip duration of 2.4 M was Clay Ave & Claremont Pkwy and W 159 St & Edgecombe Ave.
   These locations have parks and many restaurants and shops for people to bike or walk to. 
 * The Most Popular End location was 12 Ave & W 40 St. The hudson river and sight seeing cruises are close to this end location. this makes it the most popular end location for travellers to come to and go sight seeing and enjoy the restaurants at a walking distance. 
+* November of 2020, there is an increase number of rental days and the duration of bike rented, as compared to the 2019 data of November.
 * We also found out that the majority of the bikes were in the made in 1960's as the number of people using those bikes were more as compared to the newer bikes birth year. We had 2 highest points in our visualization. one for the year 1969 and the other for 1990. We could also see that tha sum of tripduration had also increase by 2 million from november 2019 to 2020. 
 * The only limitations for this dataset was people were not honest about their details. We were not able to find a ratio for which gender would prefer riding a bike than walking, using a bus or driving in NewYork.
 
-
+In conclusion we can say that Covid did not decrease the ridership program but instead it made people go out more and be more outdoors. It increased the ridership subscription as well as its customers and also the amount of days people renting the bikes and riding it long distances.  
