@@ -2,8 +2,6 @@
 
 ## Background
 
-## Background
-
 ![Citi-Bikes](Images/NewyorkCitiBike.jpg)
 
 A new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program has been given the responisiblity for overseeing the largest bike-sharing program in the United States. The analyst is expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -37,7 +35,9 @@ In this assignment, our task is to aggregate the data found in the Citi Bike Tri
 
 # Analysis:
 
-We were find able to find a few things /phenomena with the datasets we chose. We chose NewYork Citibike Dataset from 2019 and 2020. We wanted to see if the program had been affected in any way during covid period. We compared 2019 and 2020 datasets and came up with the following conclusions:
+We were find able to find a few things /phenomena with the datasets we chose. We chose NewYork Citibike Dataset from 2019 and 2020. We wanted to see if the program had been affected in any way during covid period. Here's the link to the [Tableau Story Board](https://public.tableau.com/app/profile/maheen4580/viz/Module18Assignment/NewYorkStory?publish=yes) 
+
+We compared 2019 and 2020 datasets and came up with the following conclusions:
 
 * First, limitations: We encountered a slow down in our tableau program due to merging 4 datasets together. 
 * Once we tried to merge 2 datasets from the month of November of 2019 and 2020 , it worked more efficiently.
